@@ -23,10 +23,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/tvSplashTitle"
-        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
         android:text="Your Gear. Your Adventure."
-        android:textColor="#A5D6A7"
-        android:textSize="16sp"
-        android:layout_marginTop="8dp"/>
+        android:textColor="#FF9800"
+        android:textSize="16sp" />
 
 </RelativeLayout>
